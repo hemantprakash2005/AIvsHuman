@@ -5,15 +5,15 @@ A **Machine Learning based Command-Line Interface (CLI) Project** focused on the
 This project was developed as the **main project during my internship at NIT Patna**.  
 Multiple classification models were explored, evaluated, and compared to achieve the best performance.  
 
----
 
 ## 📂 Project Information  
 
-- **Type:** Machine Learning   
-- **Domain:** Natural Language Processing (NLP)  
-- **Internship:** National Institute of Technology (NIT) Patna  
-- **Primary Task:** Text Classification  
-- **Goal:** Distinguish between **AI-generated** and **Human-written** text  
+- **Type :** Machine Learning   
+- **Domain :** Natural Language Processing (NLP)  
+- **Internship :** National Institute of Technology (NIT), Patna
+- **Dataset :** https://www.kaggle.com/datasets/shanegerami/ai-vs-human-text
+- **Primary Task :** Text Classification  
+- **Goal :** Distinguish between **AI-generated** and **Human-written** text  
 
 ---
 
@@ -38,22 +38,23 @@ Multiple classification models were explored, evaluated, and compared to achieve
 
 ## 📊 System Workflow  
 
-1. **Dataset preparation**: Human-written and AI-generated text samples collected.  
-2. **Preprocessing**: Cleaning and transforming raw text into numerical vectors.  
-3. **Model training**: Multiple classifiers trained on processed data.  
-4. **Prediction**: Input text classified as **Human** or **AI-generated**.  
-5. **Evaluation**: Performance compared across models using classification metrics.  
+1. **Dataset preparation :** Human-written and AI-generated text samples collected.  
+2. **Preprocessing :** Cleaning and transforming raw text into numerical vectors.  
+3. **Model training:** Multiple classifiers trained on processed data.  
+4. **Prediction :** Input text classified as **Human** or **AI-generated**.  
+5. **Evaluation :** Performance compared across models using classification metrics.  
 
----
 
-## 🖼️ Workflow Diagram  
-<img src="https://github.com/hemantprakash2005/AIvsHuman/blob/main/WOrkflow%20diagram.png">
+## 🖼️ Workflow Diagram
+<p align="center">
+  <img src="https://github.com/hemantprakash2005/AIvsHuman/blob/main/WOrkflow%20diagram.png">
+</p>
 
 ---
 ## 👨‍💻 Author  
 
 **Hemant Prakash**  
-- B.Tech (Computer Science & Engineering),
-- Semester 4  
-- Central University of Jharkhand, Ranchi
+- Integrated B.Tech-M.Tech in Computer Sc. & Engineering,
+- Semester 4,
+- Central University of Jharkhand, Ranchi.
 
