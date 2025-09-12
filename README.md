@@ -46,7 +46,8 @@ Multiple classification models were explored, evaluated, and compared to achieve
 
 ---
 
-## 🖼️ Sample Workflow Diagram  
+## 🖼️ Workflow Diagram  
+<img src="https://github.com/hemantprakash2005/AIvsHuman/blob/main/WOrkflow%20diagram.png">
 
 ---
 ## 👨‍💻 Author  
