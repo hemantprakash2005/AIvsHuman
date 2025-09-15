@@ -54,7 +54,7 @@ Multiple classification models were explored, evaluated, and compared to achieve
 ## 👨‍💻 Author  
 
 **Hemant Prakash**  
-- Integrated B.Tech-M.Tech in Computer Sc. & Engineering,
-- Semester 4,
+- Integrated B.Tech-M.Tech in Computer Sc. & Engineering
+- Semester 4
 - Central University of Jharkhand, Ranchi.
 
